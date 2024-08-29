@@ -5,7 +5,7 @@ export const Stratathon = (props) => {
     useSmoothScrollWithOffset(80);
     return(
         <div id="Stratathon">
-            <h1>Coming Soon...</h1>
+            <h1>Coming Soon..</h1>
         </div>
     );
 }
